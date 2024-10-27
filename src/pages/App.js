@@ -8,7 +8,7 @@ return (
     <BrowserRouter>
         <div className="App">
             <Routes>
-                <Route path="/BY-Soldout" element={<Main/>} />
+                <Route path="/BY-Soldout/home" element={<Main/>} />
             </Routes>
         </div>
     </BrowserRouter>
