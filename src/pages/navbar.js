@@ -11,23 +11,18 @@ function navbar() {
                         <a className='nav-link' href='https://www.naver.com'>Menu 1</a>
                     </li>
                     <li className='nav-item'>
-                        {/* <a className='nav-link' href='/Portfolio/Skills'>Skills</a> */}
                         <a className='nav-link' href='https://www.naver.com'>Menu 2</a>
                     </li>
                     <li className='nav-item'>
-                        {/* <a className='nav-link' href='/Portfolio/Projects'>Projects</a> */}
                         <a className='nav-link' href='https://www.naver.com'>Menu 3</a>
                     </li>
                     <li className='nav-item'>
-                        {/* <a className='nav-link' href='/Portfolio/Projects'>Projects</a> */}
                         <a className='nav-link' href='https://www.naver.com'>Menu 4</a>
                     </li>
                     <li className='nav-item'>
-                        {/* <a className='nav-link' href='/Portfolio/Projects'>Projects</a> */}
                         <a className='nav-link' href='https://www.naver.com'>Menu 5</a>
                     </li>
                     <li className='nav-item'>
-                        {/* <a className='nav-link' href='/Portfolio/Projects'>Projects</a> */}
                         <a className='nav-link' href='https://www.naver.com'>Menu 6</a>
                     </li>
                 </ul>
